@@ -1,0 +1,6 @@
+1- connection via messaging api 
+2- make a navigation bar in container so we can navigate through childs 
+3- a little css to make the page readable : 
+   like removing frame borders, width ,etc …
+4- adding buttons to send messages instead of on mount event 
+5- add a simple html js in public folder as separate route to respond to our messages
